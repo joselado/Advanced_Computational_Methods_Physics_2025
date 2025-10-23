@@ -2,5 +2,5 @@
 .ipynb_checkpoints
 .pychainfolder
 .ipynb_checkpoints
-.OUT
-.pkl
+*.OUT
+*.pkl
