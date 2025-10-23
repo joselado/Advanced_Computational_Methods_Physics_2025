@@ -1,5 +1,5 @@
 # Advanced computational Methods in Physics 2025: Quantum many body and tensor networks
-Jupyter-notebooks for the course [Advanced computational Methods in Physics 2025](https://mycourses.aalto.fi/course/view.php?id=45218&section=1): Quantum many body and tensor networks at Aalto University (2025).
+Jupyter-notebooks for the course [Advanced computational Methods in Physics 2025](https://mycourses.aalto.fi/course/view.php?id=49080): Quantum many body and tensor networks at Aalto University (2025).
 
 This repository contains the Jupyter notebooks associated to the lectures on tensor networks and quantum many body in the course.
 
